@@ -1,0 +1,25 @@
+  Booting 'OS'
+
+kernel /boot/kernel.elf
+
+Error 13: Invalid or unsupported executable format
+
+Press any key to continue...ß
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
